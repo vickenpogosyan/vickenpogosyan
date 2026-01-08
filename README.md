@@ -1,5 +1,5 @@
 # Hello World! 👋🌍
-🎓 My name is Vicken, I'm a 3rd-year Computer Science student and aspiring Software Developer <br> 💡 I’m currently working on a full-stack application 
+🎓 My name is Vicken, I'm a 3rd-year Computer Science student and aspiring Software Developer <br> 💡 I’m currently working on multiple full-stack applications
 
 
 ## Connect with me 🤝
@@ -13,7 +13,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Tools ⚙️
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logoColor=orange) ![Eclipse](https://img.shields.io/badge/Eclipse-grey?style=for-the-badge&logo=eclipseide&logoColor=indigo) ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logoColor=orange) ![Eclipse](https://img.shields.io/badge/Eclipse-grey?style=for-the-badge&logo=eclipseide&logoColor=indigo) ![Git](https://img.shields.io/badge/Git%20-%20black?style=for-the-badge&logo=git) ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
 ---
