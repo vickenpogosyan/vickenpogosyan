@@ -1,5 +1,5 @@
 # 👋🌍
-🎓 I'm Vicken, a 4th-year Computer Science student and aspiring Software Engineer <br> 🚀 Currently working on multiple projects
+🎓 4th-year Computer Science student and aspiring Software Engineer <br> 🚀 Currently working on multiple projects
 
 ### Let's Connect 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickenpogosyan) 
