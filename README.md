@@ -1,8 +1,10 @@
 # 👋🌍
-🎓 4th-year Computer Science student and aspiring Software Engineer <br> 🚀 Currently working on multiple projects
+💻 Aspiring Software Engineer <br> 🚀 Currently working on multiple personal projects
 
+<!--
 ### Let's Connect 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickenpogosyan) 
+-->
 
 <!--
 ## Languages 👨‍💻
